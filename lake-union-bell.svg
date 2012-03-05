@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="lake-union-bell.svg"
+   inkscape:export-filename="/home/duncan/hobby/phreak/lake-union-bell/art/lake-union-bell.png"
+   inkscape:export-xdpi="600.19934"
+   inkscape:export-ydpi="600.19934">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -22,19 +25,19 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.3717882"
      inkscape:cx="334.95165"
      inkscape:cy="306.25975"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:window-width="1278"
-     inkscape:window-height="769"
+     inkscape:window-height="754"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="15"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,74 +61,55 @@
      id="layer2"
      inkscape:label="tracing">
     <path
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:7.51637793;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:7.51535433000000008;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible"
        inkscape:transform-center-x="5.346321"
        inkscape:transform-center-y="7.3110311"
-       d="m 202.01616,798.14162 47.42421,-132.46921 170.51504,-0.24075 47.93173,132.32045 z"
+       d="m 202.01616,797.94686 47.42421,-132.27445 170.51504,-0.24075 47.93173,132.5152 z"
        id="path3137"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
-    <text
-       xml:space="preserve"
-       style="font-size:26.32258797px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:EurostileDCDReg Italic"
-       x="312.51416"
-       y="880.74524"
-       id="text3129"
-       sodipodi:linespacing="100%"
-       transform="scale(1.0637252,0.94009242)"><tspan
-         sodipodi:role="line"
-         x="312.51416"
-         y="880.74524"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:EurostileDCDReg;-inkscape-font-specification:EurostileDCDReg Italic"
-         id="tspan3946">SHADYTEL FAMILY</tspan></text>
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.54330708999999988;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none"
+       d="m 301.11697,698.03125 -7.46875,20.40625 82.625,0 -7.46875,-20.40625 -67.6875,0 z"
+       id="path3109"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.54330708999999988;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none"
+       d="m 283.30447,746.65625 -14.03125,38.3125 131.375,0 -14.03125,-38.3125 -103.3125,0 z"
+       id="rect3053"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.54330708999999988;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none"
+       d="m 261.74197,679.71484 -14,38.21875 38.8125,0 9.96875,-27.21875 76.875,0 9.96875,27.21875 38.8125,0 -14,-38.21875 -146.4375,0 z"
+       id="path3056"
+       inkscape:connector-curvature="0" />
     <g
-       id="g3150"
+       id="g3144"
        transform="translate(1.1794687,0)">
-      <g
-         id="g3139">
-        <path
-           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.13743544;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible"
-           d="m 299.9375,698.03125 -7.46875,20.40625 82.625,0 -7.46875,-20.40625 -67.6875,0 z"
-           id="path3109"
-           inkscape:connector-curvature="0" />
-        <path
-           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.13743544;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible"
-           d="m 282.125,746.65625 -14.03125,38.3125 131.375,0 -14.03125,-38.3125 -103.3125,0 z"
-           id="rect3053"
-           inkscape:connector-curvature="0" />
-        <path
-           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible"
-           d="m 260.5625,679.71484 -14,38.21875 38.8125,0 9.96875,-27.21875 76.875,0 9.96875,27.21875 38.8125,0 -14,-38.21875 -146.4375,0 z"
-           id="path3056"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g3144">
-        <text
-           xml:space="preserve"
-           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-           x="333.78586"
+      <text
+         sodipodi:linespacing="100%"
+         id="text3091"
+         y="740.36218"
+         x="333.78586"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         xml:space="preserve"><tspan
+           id="tspan3103"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol Bold"
            y="740.36218"
-           id="text3091"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             x="333.78586"
-             y="740.36218"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol Bold"
-             id="tspan3103">LAKE UNION</tspan></text>
-        <text
-           sodipodi:linespacing="100%"
-           id="text3133"
-           y="773.74902"
+           x="333.78586"
+           sodipodi:role="line">LAKE UNION</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         x="332.98828"
+         y="773.74902"
+         id="text3133"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
            x="332.98828"
-           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-           xml:space="preserve"><tspan
-             id="tspan3135"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol Bold"
-             y="773.74902"
-             x="332.98828"
-             sodipodi:role="line">BELL</tspan></text>
-      </g>
+           y="773.74902"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol Bold"
+           id="tspan3135">BELL</tspan></text>
     </g>
   </g>
 </svg>
